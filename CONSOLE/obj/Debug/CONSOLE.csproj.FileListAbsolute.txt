@@ -1,0 +1,40 @@
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\CONSOLE.exe.config
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\CONSOLE.exe
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\CONSOLE.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\DOMAIN.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\EntityFramework.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\SERVICE.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\SERVICEPATTERN.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\DATA.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\DOMAIN.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\SERVICEPATTERN.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\SERVICE.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\EntityFramework.xml
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\bin\Debug\DATA.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\obj\Debug\CONSOLE.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\obj\Debug\CONSOLE.exe
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\CONSOLE\obj\Debug\CONSOLE.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\CONSOLE.exe.config
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\CONSOLE.exe
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\CONSOLE.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\DOMAIN.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\SERVICE.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\SERVICEPATTERN.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\DATA.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\DOMAIN.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\SERVICEPATTERN.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\SERVICE.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\DATA.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\obj\Debug\CONSOLE.csprojResolveAssemblyReference.cache
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\obj\Debug\CONSOLE.exe
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\CONSOLE\obj\Debug\CONSOLE.pdb

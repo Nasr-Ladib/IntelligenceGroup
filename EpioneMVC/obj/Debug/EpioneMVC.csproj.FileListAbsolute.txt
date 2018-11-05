@@ -1,0 +1,176 @@
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\ApplicationInsights.config
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\csc.exe
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\vbc.exe
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.dll.config
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Antlr3.Runtime.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Newtonsoft.Json.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Owin.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Helpers.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Mvc.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Optimization.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Razor.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\WebGrease.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Helpers.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Mvc.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Optimization.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Razor.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Newtonsoft.Json.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.csprojResolveAssemblyReference.cache
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DATA.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DOMAIN.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\SERVICE.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DATA.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DOMAIN.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\SERVICE.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\ApplicationInsights.config
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\csc.exe
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\vbc.exe
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.dll.config
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EpioneMVC.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Antlr3.Runtime.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DATA.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DOMAIN.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Web.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Newtonsoft.Json.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Owin.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\SERVICE.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Helpers.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Mvc.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Optimization.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Razor.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\WebGrease.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DATA.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\DOMAIN.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\SERVICE.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.Web.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Helpers.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Mvc.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Optimization.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.Razor.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Antlr3.Runtime.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Newtonsoft.Json.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.csprojResolveAssemblyReference.cache
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\EpioneMVC\obj\Debug\EpioneMVC.pdb

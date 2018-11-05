@@ -1,0 +1,56 @@
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\SERVICE.dll.config
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\SERVICE.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\SERVICE.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\DATA.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\DOMAIN.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\EntityFramework.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\SERVICEPATTERN.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\DATA.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\DOMAIN.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\SERVICEPATTERN.pdb
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\EntityFramework.xml
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\obj\Debug\SERVICE.dll
+c:\users\hamza\documents\visual studio 2015\Projects\PIDEV2018\SERVICE\obj\Debug\SERVICE.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.dll.config
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DATA.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DOMAIN.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICEPATTERN.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DATA.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DOMAIN.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICEPATTERN.pdb
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.dll
+C:\Users\Nasr Adib\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.dll.config
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICE.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DATA.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DOMAIN.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICEPATTERN.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DATA.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\DOMAIN.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\SERVICEPATTERN.pdb
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.csprojResolveAssemblyReference.cache
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.dll
+C:\Users\omri_\OneDrive\Documents\Visual Studio 2015\Projects\Epione-Project\SERVICE\obj\Debug\SERVICE.pdb
